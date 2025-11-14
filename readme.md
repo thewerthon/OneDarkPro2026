@@ -56,9 +56,8 @@ OneDarkPro2026.vsix
 
 ## Theme Preview
 
-<img width="1472" height="941" alt="Screenshot -c#" src="https://github.com/user-attachments/assets/1e97f1f7-7f47-4ef4-a0d0-aed50462a6f8" />
-<img width="1472" height="941" alt="Screenshot-c++" src="https://github.com/user-attachments/assets/63f788c8-c817-45ea-ae02-eb22c46e68a2" />
-
+![Preview](doc/screenshot-cs.png)
+![Preview](doc/screenshot-cpp.png)
 
 ---
 
